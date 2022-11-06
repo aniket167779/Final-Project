@@ -21,6 +21,9 @@ https://proud-meadow-0afec7a10.2.azurestaticapps.net/
 
 ![6](https://user-images.githubusercontent.com/69382363/200177281-5d8e4da5-7441-41c2-b1e0-ab310714cd02.PNG)
 
+Azure Portal 
+
+![Capture](https://user-images.githubusercontent.com/69382363/200177891-ed91b870-ab6f-47a2-a7db-bc4f889632a5.PNG)
 
 ## Authors
 
