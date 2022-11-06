@@ -25,6 +25,10 @@ Azure Portal
 
 ![Capture](https://user-images.githubusercontent.com/69382363/200177891-ed91b870-ab6f-47a2-a7db-bc4f889632a5.PNG)
 
+## Video Demo
+
+https://youtu.be/xeDsSbW6yPg
+
 ## Authors
 
 - [@aniket167779](https://github.com/aniket167779) 
