@@ -4,7 +4,7 @@ Snipers, tankers and those silent, tense moments of climax in shooter video game
 
 ## Demo
 
-https://proud-meadow-0afec7a10.2.azurestaticapps.net/
+https://gamingwebsite.azurewebsites.net
 ## Screenshots
 
 
