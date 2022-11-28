@@ -23,7 +23,9 @@ https://gamingwebsite.azurewebsites.net
 
 Azure Portal 
 
-![Capture](https://user-images.githubusercontent.com/69382363/200177891-ed91b870-ab6f-47a2-a7db-bc4f889632a5.PNG)
+![app service](https://user-images.githubusercontent.com/69382363/204209837-8f00fa26-6866-41b4-bd71-684beef1b024.PNG)
+
+![static web app](https://user-images.githubusercontent.com/69382363/204209845-9b43c78b-5279-4803-bf40-2fbd1e64ec0c.PNG)
 
 ## Video Demo
 
